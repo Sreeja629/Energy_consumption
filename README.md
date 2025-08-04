@@ -1,7 +1,7 @@
 
-# Residential Energy Prediction - Rebranded by Suraj M (Qbit Crew)
+# Residential Energy Prediction  (Qbit Crew)
 
-Welcome to the Residential Energy Consumption Prediction project – now adapted and documented by **Suraj M** and the **Qbit Crew** for educational use.
+Welcome to the Residential Energy Consumption Prediction project – now adapted and documented by **Sreeja indrala**.
 
 > Forked and enhanced from the original [project](https://github.com/nipun-goyal/Residential-Energy-Consumption-Prediction).
 
