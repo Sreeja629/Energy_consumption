@@ -1,5 +1,5 @@
 
-# Residential Energy Prediction  (Qbit Crew)
+# Residential Energy Prediction 
 
 Welcome to the Residential Energy Consumption Prediction project – now adapted and documented by **Sreeja indrala**.
 
@@ -111,7 +111,7 @@ Open `1.0-Residential-Energy-Modeling.ipynb` and run all cells.
 ---
 
 ### 👨‍💻 Author
-Maintained by **Suraj M** | Qbit Crew  
+Maintained by **Sreeja** | 
 *Built for students, educators, and curious minds in energy analytics.*
 
 ---
